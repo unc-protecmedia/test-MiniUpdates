@@ -1,0 +1,2 @@
+CIC-815: Arreglo de la hostia.
+MLN-1258: Arreglo para Milenium Server que ya no casca nunca más.
