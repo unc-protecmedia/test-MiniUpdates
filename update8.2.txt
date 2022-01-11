@@ -1,0 +1,2 @@
+COM512: Arreglo en Comms
+MLN-1134: Arreglo en CMFoto.dll
